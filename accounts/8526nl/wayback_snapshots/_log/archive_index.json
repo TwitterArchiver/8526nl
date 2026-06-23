@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-23T06:28:03",
+  "last_updated": "2026-06-23T06:28:16",
   "html": {
     "https://web.archive.org/web/20260613151250if_/https://twitter.com/8526nl/status/2065814661032013920": {
       "status": "done",
@@ -497,11 +497,11 @@
   },
   "avatars": {
     "https://pbs.twimg.com/profile_images/2065019868068659200/q0Tj-3xx_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260611110717_twitter_com_8526nl_status_2065028087516156173.json"
       ],
-      "last_updated": "2026-06-23T06:18:21",
+      "last_updated": "2026-06-23T06:28:16",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260611110717if_/https://pbs.twimg.com/profile_images/2065019868068659200/q0Tj-3xx_normal.jpg",
       "miss_count": 1
     },
@@ -518,7 +518,7 @@
       "last_updated": "2026-06-23T06:18:18"
     },
     "https://pbs.twimg.com/profile_images/2065029203016478720/WDBLrZTF_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260611112155_twitter_com_8526nl_status_2065031771549565143.json",
         "20260612090906_twitter_com_8526nl_status_2065360735165960226.json",
@@ -526,7 +526,7 @@
         "20260613115740_twitter_com_8526nl_status_2065765546453529069.json",
         "20260613120421_twitter_com_8526nl_status_2065767226628817128.json"
       ],
-      "last_updated": "2026-06-23T06:18:21",
+      "last_updated": "2026-06-23T06:28:16",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260613120421if_/https://pbs.twimg.com/profile_images/2065029203016478720/WDBLrZTF_normal.jpg",
       "miss_count": 1
     },
@@ -756,7 +756,7 @@
       "last_updated": "2026-06-23T06:18:21"
     },
     "20260611112155_twitter_com_8526nl_status_2065031771549565143.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -764,7 +764,7 @@
           "https://pbs.twimg.com/profile_images/2065029203016478720/WDBLrZTF_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-23T06:26:18",
+      "last_updated": "2026-06-23T06:28:16",
       "miss_count": 2
     },
     "20260612090906_twitter_com_8526nl_status_2065360735165960226.json": {

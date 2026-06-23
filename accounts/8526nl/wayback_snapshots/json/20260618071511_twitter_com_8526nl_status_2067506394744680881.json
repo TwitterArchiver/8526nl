@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067506372686802944"
+      ]
+    },
+    "author_id": "2065018601451765760",
+    "conversation_id": "2067506394744680881",
+    "created_at": "2026-06-18T07:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067506394744680881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wPeEci9RYx",
+          "end": 32,
+          "expanded_url": "https://x.com/8526nl/status/2067506394744680881/photo/1",
+          "media_key": "3_2067506372686802944",
+          "start": 9,
+          "url": "https://t.co/wPeEci9RYx"
+        },
+        {
+          "display_url": "x.com/Meguminsama200…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Meguminsama2009/status/2067433832811516114",
+          "start": 33,
+          "url": "https://t.co/ZB6m98VSTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067506394744680881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067433832811516114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是这样？？😈😈 https://t.co/wPeEci9RYx https://t.co/ZB6m98VSTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2067506372686802944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFCF4LacAAyb1q.jpg",
+        "width": 1680
+      },
+      {
+        "height": 937,
+        "media_key": "3_2067433830022299649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEAHVsawAEY8y2.jpg",
+        "width": 1679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067506372686802944"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2067506394744680881",
+        "created_at": "2026-06-18T07:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067506394744680881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPeEci9RYx",
+              "end": 32,
+              "expanded_url": "https://x.com/8526nl/status/2067506394744680881/photo/1",
+              "media_key": "3_2067506372686802944",
+              "start": 9,
+              "url": "https://t.co/wPeEci9RYx"
+            },
+            {
+              "display_url": "x.com/Meguminsama200…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Meguminsama2009/status/2067433832811516114",
+              "start": 33,
+              "url": "https://t.co/ZB6m98VSTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067506394744680881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067433832811516114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是这样？？😈😈 https://t.co/wPeEci9RYx https://t.co/ZB6m98VSTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067433830022299649"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2067433832811516114",
+        "created_at": "2026-06-18T02:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067433832811516114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4QW2SvRSm",
+              "end": 39,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2067433832811516114/photo/1",
+              "media_key": "3_2067433830022299649",
+              "start": 16,
+              "url": "https://t.co/w4QW2SvRSm"
+            },
+            {
+              "display_url": "x.com/Q0S_Rimu/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Q0S_Rimu/status/2066867046072406368",
+              "start": 40,
+              "url": "https://t.co/RRFuL647De"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067433832811516114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7582,
+          "like_count": 173,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066867046072406368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我能想象到的最完美的人类👇 https://t.co/w4QW2SvRSm https://t.co/RRFuL647De"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 168,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠",
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1963,
+          "like_count": 3153,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 6656
+        },
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

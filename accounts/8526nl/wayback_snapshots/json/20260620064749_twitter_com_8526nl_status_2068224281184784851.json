@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2068222801983774908",
+    "created_at": "2026-06-20T06:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068224281184784851"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068224281184784851",
+    "in_reply_to_user_id": "2065018601451765760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068222801983774908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有什么需求不能好好沟通好好说\n非要吵架揭我伤疤中伤我让我难受\n好让她有理由说我有事情替我去做美甲\n 看透了你想做什么事情之后我真的觉得自己伤痕累累的也很可笑啊 我不要再被你们精神控制内耗了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2068222799316156416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPNrZWagAAiBIY.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2068222801983774908",
+        "created_at": "2026-06-20T06:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068224281184784851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068224281184784851",
+        "in_reply_to_user_id": "2065018601451765760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068222801983774908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有什么需求不能好好沟通好好说\n非要吵架揭我伤疤中伤我让我难受\n好让她有理由说我有事情替我去做美甲\n 看透了你想做什么事情之后我真的觉得自己伤痕累累的也很可笑啊 我不要再被你们精神控制内耗了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068222799316156416"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2068222801983774908",
+        "created_at": "2026-06-20T06:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068222801983774908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZQf8M82tq",
+              "end": 56,
+              "expanded_url": "https://x.com/8526nl/status/2068222801983774908/photo/1",
+              "media_key": "3_2068222799316156416",
+              "start": 33,
+              "url": "https://t.co/aZQf8M82tq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068222801983774908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说了半天生物妈原来只是一心想替我去做免费美甲 唉 真的没必要这样 https://t.co/aZQf8M82tq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍋🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 175,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2067592800552861698",
+    "created_at": "2026-06-18T12:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067592800552861698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067592800552861698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067531747181658459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @LanziiLove: 受到来自mtf的恶意和攻击比来自顺直的大多了\n\n我居然才意识到这一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2067592800552861698",
+        "created_at": "2026-06-18T12:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592800552861698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592800552861698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067531747181658459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @LanziiLove: 受到来自mtf的恶意和攻击比来自顺直的大多了\n\n我居然才意识到这一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067531747181658459",
+        "created_at": "2026-06-18T08:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067531747181658459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067531747181658459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2371,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "受到来自mtf的恶意和攻击比来自顺直的大多了\n\n我居然才意识到这一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 172,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "",
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2067555748838822312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25664,
+          "following_count": 1269,
+          "like_count": 3181,
+          "listed_count": 79,
+          "media_count": 448,
+          "tweet_count": 2748
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

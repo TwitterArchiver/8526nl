@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2067519835852898386",
+    "created_at": "2026-06-18T12:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067592728444330423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983042229720735744",
+          "start": 0,
+          "username": "mchchc5216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067592728444330423",
+    "in_reply_to_user_id": "1983042229720735744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067519835852898386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mchchc5216 这期神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067519818736041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFOUinXgAAujz9.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2067519835852898386",
+        "created_at": "2026-06-18T12:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592728444330423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983042229720735744",
+              "start": 0,
+              "username": "mchchc5216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592728444330423",
+        "in_reply_to_user_id": "1983042229720735744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067519835852898386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mchchc5216 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067519818736041984"
+          ]
+        },
+        "author_id": "1983042229720735744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067519835852898386",
+        "created_at": "2026-06-18T08:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067519835852898386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQEbkStUEx",
+              "end": 30,
+              "expanded_url": "https://x.com/mchchc5216/status/2067519835852898386/photo/1",
+              "media_key": "3_2067519818736041984",
+              "start": 7,
+              "url": "https://t.co/jQEbkStUEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067519835852898386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 572,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鲨猫不要导管 https://t.co/jQEbkStUEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 171,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 紫餐 Ⅱ 生产日期：2011.3.29 ll 坐标：山东济南 Ⅱ 优香单推人 Ⅱ 互fo Ⅱ 对象：@QY404XYN Ⅱ 扩列请加：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "QY404XYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "hc5216ˣʸⁿ | 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 736,
+          "like_count": 2556,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": true
+      }
+    ]
+  }
+}

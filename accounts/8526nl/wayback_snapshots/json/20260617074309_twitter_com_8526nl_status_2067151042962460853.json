@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067151040487870464"
+      ]
+    },
+    "author_id": "2065018601451765760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067151042962460853",
+    "created_at": "2026-06-17T07:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067151042962460853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7YXo4TvKC",
+          "end": 39,
+          "expanded_url": "https://x.com/8526nl/status/2067151042962460853/photo/1",
+          "media_key": "3_2067151040487870464",
+          "start": 16,
+          "url": "https://t.co/p7YXo4TvKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067151042962460853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可是我真的感觉影子很像告发子啊 https://t.co/p7YXo4TvKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067151040487870464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_-60lb0AAdfbM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067151040487870464"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067151042962460853",
+        "created_at": "2026-06-17T07:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067151042962460853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7YXo4TvKC",
+              "end": 39,
+              "expanded_url": "https://x.com/8526nl/status/2067151042962460853/photo/1",
+              "media_key": "3_2067151040487870464",
+              "start": 16,
+              "url": "https://t.co/p7YXo4TvKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067151042962460853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是我真的感觉影子很像告发子啊 https://t.co/p7YXo4TvKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 154,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

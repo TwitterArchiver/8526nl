@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2066267638553248055",
+    "created_at": "2026-06-15T02:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066351789499392241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066351789499392241",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066267638553248055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo 把圈圈权限关闭就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2066267638553248055",
+        "created_at": "2026-06-15T02:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066351789499392241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066351789499392241",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066267638553248055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 把圈圈权限关闭就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2066267638553248055",
+        "created_at": "2026-06-14T21:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066267638553248055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnalyLain_01/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/AnalyLain_01/status/2066170340947152907",
+              "start": 63,
+              "url": "https://t.co/szwL9LfcTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066267638553248055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066170340947152907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖子为什么要提到我？\n和我有什么关系？\n我一大早上打开通知以为被网暴了\n你们是不是点错了呀？为什么一个讣告帖子要提及我？ https://t.co/szwL9LfcTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜随意互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 63,
+                "username": "NL8526"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "wngjil835743488"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 107,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2066139335825744226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 22,
+          "like_count": 69,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 375
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

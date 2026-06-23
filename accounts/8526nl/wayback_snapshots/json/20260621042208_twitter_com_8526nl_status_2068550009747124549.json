@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068550006852968448"
+      ]
+    },
+    "author_id": "2065018601451765760",
+    "conversation_id": "2068550009747124549",
+    "created_at": "2026-06-21T04:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068550009747124549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5HcJpCIpQn",
+          "end": 36,
+          "expanded_url": "https://x.com/8526nl/status/2068550009747124549/photo/1",
+          "media_key": "3_2068550006852968448",
+          "start": 13,
+          "url": "https://t.co/5HcJpCIpQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068550009747124549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫你不能在半夜叫春😡😡 https://t.co/5HcJpCIpQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068550006852968448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT3RYaaYAANgN8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068550006852968448"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2068550009747124549",
+        "created_at": "2026-06-21T04:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068550009747124549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5HcJpCIpQn",
+              "end": 36,
+              "expanded_url": "https://x.com/8526nl/status/2068550009747124549/photo/1",
+              "media_key": "3_2068550006852968448",
+              "start": 13,
+              "url": "https://t.co/5HcJpCIpQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068550009747124549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫你不能在半夜叫春😡😡 https://t.co/5HcJpCIpQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍋🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 185,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

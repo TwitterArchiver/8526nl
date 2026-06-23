@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2067857965265330444",
+    "created_at": "2026-06-19T15:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067987479857373601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "217689128",
+          "start": 0,
+          "username": "q1ngyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067987479857373601",
+    "in_reply_to_user_id": "217689128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067966064445853747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1ngyang 芯片是Intel N100 4h16G ddr4 512GB固态 网卡是MT7921"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2067857965265330444",
+        "created_at": "2026-06-19T15:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067987479857373601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "217689128",
+              "start": 0,
+              "username": "q1ngyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067987479857373601",
+        "in_reply_to_user_id": "217689128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966064445853747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1ngyang 芯片是Intel N100 4h16G ddr4 512GB固态 网卡是MT7921"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "217689128",
+        "conversation_id": "2067857965265330444",
+        "created_at": "2026-06-19T13:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067966064445853747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065018601451765760",
+              "start": 0,
+              "username": "8526nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067966064445853747",
+        "in_reply_to_user_id": "2065018601451765760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067857965265330444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8526nl 好奇配置，有两个SFP+看起来不错诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍋🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 174,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-20T06:46:43.000Z",
+        "description": "ちっぽけな目撃者。\n\n忘れられてゆく記憶と、\n消されゆく時代の悲しみ。\n破られる歴史の1ページをこの胸に焼き付け、\n決して目を逸らしはしない。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dou.bi",
+                "end": 23,
+                "expanded_url": "http://dou.bi",
+                "start": 0,
+                "url": "https://t.co/9tKWYMCCu2"
+              }
+            ]
+          }
+        },
+        "id": "217689128",
+        "location": "Mars",
+        "name": "轻飏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881368683274289153/BJY6LkZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21125,
+          "following_count": 9915,
+          "like_count": 1820,
+          "listed_count": 146,
+          "media_count": 1767,
+          "tweet_count": 23782
+        },
+        "url": "https://t.co/9tKWYMCCu2",
+        "username": "q1ngyang",
+        "verified": true
+      }
+    ]
+  }
+}

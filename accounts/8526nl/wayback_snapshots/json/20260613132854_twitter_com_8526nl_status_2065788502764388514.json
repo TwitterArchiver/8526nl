@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065788500285558784"
+      ]
+    },
+    "author_id": "2065018601451765760",
+    "conversation_id": "2065788502764388514",
+    "created_at": "2026-06-13T13:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065788502764388514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N2t3HWdDr3",
+          "end": 43,
+          "expanded_url": "https://x.com/8526nl/status/2065788502764388514/photo/1",
+          "media_key": "3_2065788500285558784",
+          "start": 20,
+          "url": "https://t.co/N2t3HWdDr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065788502764388514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "救命吧我的手机中了奶龙病毒\n怎么办😭😭 https://t.co/N2t3HWdDr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065788500285558784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsnsiybkAAb-Ru.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065788500285558784"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2065788502764388514",
+        "created_at": "2026-06-13T13:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065788502764388514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2t3HWdDr3",
+              "end": 43,
+              "expanded_url": "https://x.com/8526nl/status/2065788502764388514/photo/1",
+              "media_key": "3_2065788500285558784",
+              "start": 20,
+              "url": "https://t.co/N2t3HWdDr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788502764388514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命吧我的手机中了奶龙病毒\n怎么办😭😭 https://t.co/N2t3HWdDr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜随意互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 63,
+                "username": "NL8526"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "wngjil835743488"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 88,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

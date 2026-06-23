@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066824068817645568"
+      ]
+    },
+    "author_id": "2065018601451765760",
+    "conversation_id": "2066824084730843595",
+    "created_at": "2026-06-16T10:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066824084730843595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nt6foty8I6",
+          "end": 73,
+          "expanded_url": "https://x.com/8526nl/status/2066824084730843595/video/1",
+          "media_key": "7_2066824068817645568",
+          "start": 50,
+          "url": "https://t.co/Nt6foty8I6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066824084730843595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚在床上放了30多分钟的屁\n内裤都崩成蕾丝的了 床单都黄了\n你怎么不问我累不累啊？你说话啊？😫😫 https://t.co/Nt6foty8I6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3134,
+        "height": 1280,
+        "media_key": "7_2066824068817645568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066824068817645568/pu/img/oUQNGXviBMIa3YK-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066824068817645568/pu/vid/avc1/320x568/gCsR09_d9S_-Iq2u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066824068817645568/pu/vid/avc1/480x852/XM9z5dzmnwHD5XyH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066824068817645568/pu/vid/avc1/720x1280/z07uXP-VrJriDgP_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066824068817645568/pu/pl/cFb95-rw-AGNKBlf.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066824068817645568"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2066824084730843595",
+        "created_at": "2026-06-16T10:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066824084730843595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nt6foty8I6",
+              "end": 73,
+              "expanded_url": "https://x.com/8526nl/status/2066824084730843595/video/1",
+              "media_key": "7_2066824068817645568",
+              "start": 50,
+              "url": "https://t.co/Nt6foty8I6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824084730843595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚在床上放了30多分钟的屁\n内裤都崩成蕾丝的了 床单都黄了\n你怎么不问我累不累啊？你说话啊？😫😫 https://t.co/Nt6foty8I6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 142,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

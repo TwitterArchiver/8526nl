@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2066407296545235213",
+    "created_at": "2026-06-15T06:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066407296545235213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/A1oneSKy/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/A1oneSKy/status/2066142050433855774",
+          "start": 9,
+          "url": "https://t.co/AnJbTyJsgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066407296545235213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066142050433855774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发情就没人理我 https://t.co/AnJbTyJsgt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2066407296545235213",
+        "created_at": "2026-06-15T06:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066407296545235213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A1oneSKy/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/A1oneSKy/status/2066142050433855774",
+              "start": 9,
+              "url": "https://t.co/AnJbTyJsgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066407296545235213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142050433855774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发情就没人理我 https://t.co/AnJbTyJsgt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242074475400548352",
+        "conversation_id": "2066142050433855774",
+        "created_at": "2026-06-14T12:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142050433855774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuzuk1qwq/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yuzuk1qwq/status/2065895802053234812",
+              "start": 9,
+              "url": "https://t.co/r2Jh44SZf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142050433855774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 962,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065895802053234812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发情就没人理我 https://t.co/r2Jh44SZf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜随意互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 63,
+                "username": "NL8526"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "wngjil835743488"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 114,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "EN / CN / JP / KR/ 韓國語 계정@alonesky_kr ㅣ 韓国留學中...ㅣ\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1707,
+          "like_count": 7645,
+          "listed_count": 5,
+          "media_count": 5628,
+          "tweet_count": 22822
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

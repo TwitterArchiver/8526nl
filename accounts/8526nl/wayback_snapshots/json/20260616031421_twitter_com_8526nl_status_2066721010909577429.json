@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2066706080932217049",
+    "created_at": "2026-06-16T03:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066721010909577429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794306281572118528",
+          "start": 0,
+          "username": "520maodou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066721010909577429",
+    "in_reply_to_user_id": "1794306281572118528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066706080932217049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520maodou woc盒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066706071612485632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5qOOWa8AAxIO5.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2066706080932217049",
+        "created_at": "2026-06-16T03:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066721010909577429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "520maodou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066721010909577429",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066706080932217049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520maodou woc盒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066706071612485632"
+          ]
+        },
+        "author_id": "1794306281572118528",
+        "conversation_id": "2066706080932217049",
+        "created_at": "2026-06-16T02:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066706080932217049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNIIY4acOA",
+              "end": 144,
+              "expanded_url": "https://x.com/520maodou/status/2066706080932217049/photo/1",
+              "media_key": "3_2066706071612485632",
+              "start": 121,
+              "url": "https://t.co/dNIIY4acOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066706080932217049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好过分喵🥺～\n哪个推U宝宝把毛豆开户了，真的真的补药再这样子做了好么喵😥～\n真心感谢各位跨圈大家庭宝宝们的给毛豆的支持🥹，也感谢所有关注毛豆的可爱小粉丝们💕，但是请不要在付款备注📝上写毛豆的真实信息好么\n我不想追究这些信息你们是从哪里来的😮‍💨，你们手里有毛豆的数据，毛豆不知道的话也相当于没事，但是......🥺，你们为什么要这么做，难道单纯就为了欺负毛豆，让毛豆害怕😨么\n毛豆胆子真的很小，你们在付款备注上写毛豆的真实学校班级姓名，毛豆真的会非常非常害怕的😨"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 136,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好过分喵🥺～\n哪个推U宝宝把毛豆开户了，真的真的补药再这样子做了好么喵😥～\n真心感谢各位跨圈大家庭宝宝们的给毛豆的支持🥹，也感谢所有关注毛豆的可爱小粉丝们💕，但是请不要在付款备注📝上写毛豆的真实信息好么\n我不想追究这些信息你们是从哪里来的😮 https://t.co/dNIIY4acOA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 131,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF喵~\n生产日期07.4 | 无证含糖 | HRT 26.5.4  |26.5.15已炸柜 | 大一数学系新生一枚|「坐标杭州」 |181cm 57kg | 爱好数学与信息技术 欢迎同好友好交流😀| 支持新自由主义🏳️‍⚧️  可适当键政（不是粉红喵～）这里可以通过Telegram联系本喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xingbiepingdeng",
+                "end": 23,
+                "expanded_url": "https://t.me/xingbiepingdeng",
+                "start": 0,
+                "url": "https://t.co/AEgmmmLnGi"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "location": "浙江 杭州",
+        "name": "毛豆酱🏳️‍⚧️",
+        "pinned_tweet_id": "2056599288319443386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053460035469258752/gGYtCmAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 167,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/AEgmmmLnGi",
+        "username": "520maodou",
+        "verified": true
+      }
+    ]
+  }
+}

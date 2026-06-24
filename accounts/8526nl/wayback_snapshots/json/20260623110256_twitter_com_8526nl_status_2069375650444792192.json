@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2069375650444792192",
+    "created_at": "2026-06-23T11:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069375650444792192"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069375650444792192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起吧我真的不适合呆在所谓的本地群里，如果是玩地区歧视以偏概全地觉得 这个地方的人都很xx 那我没话说。\n但是在不知道是这个原因之前 我一直认为是自己做错了什么事情 才导致人家不愿意和我交朋友，忽视、排挤我。\n那你们赢了，地区群里经常吵架串子小号小团体满天飞就是你们希望看见的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2069375650444792192",
+        "created_at": "2026-06-23T11:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069375650444792192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069375650444792192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起吧我真的不适合呆在所谓的本地群里，如果是玩地区歧视以偏概全地觉得 这个地方的人都很xx 那我没话说。\n但是在不知道是这个原因之前 我一直认为是自己做错了什么事情 才导致人家不愿意和我交朋友，忽视、排挤我。\n那你们赢了，地区群里经常吵架串子小号小团体满天飞就是你们希望看见的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍋🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 188,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

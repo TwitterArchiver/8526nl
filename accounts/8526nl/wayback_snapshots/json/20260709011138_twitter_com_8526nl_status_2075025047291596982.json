@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065018601451765760",
+    "conversation_id": "2074879237304324435",
+    "created_at": "2026-07-09T01:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075025047291596982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804296555354013696",
+          "start": 0,
+          "username": "LoveForever_52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075025047291596982",
+    "in_reply_to_user_id": "1804296555354013696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074879237304324435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveForever_52 教我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2074879227003064320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtzqe1a0AA3nO5.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2074879237304324435",
+        "created_at": "2026-07-09T01:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075025047291596982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804296555354013696",
+              "start": 0,
+              "username": "LoveForever_52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075025047291596982",
+        "in_reply_to_user_id": "1804296555354013696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074879237304324435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveForever_52 教我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074879227003064320"
+          ]
+        },
+        "author_id": "1804296555354013696",
+        "conversation_id": "2074879237304324435",
+        "created_at": "2026-07-08T15:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074879237304324435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHKXhBpnF7",
+              "end": 30,
+              "expanded_url": "https://x.com/LoveForever_52/status/2074879237304324435/photo/1",
+              "media_key": "3_2074879227003064320",
+              "start": 7,
+              "url": "https://t.co/FHKXhBpnF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074879237304324435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "京东0元拿下 https://t.co/FHKXhBpnF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍋🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 194,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T23:33:30.000Z",
+        "description": "生产日08.4.18/保质期18年20年??/👻163cm54kg努力减肥中//同类可+我/临的可找我玩/小单睾一只（字面意思）",
+        "id": "1804296555354013696",
+        "location": "中国",
+        "name": "天依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000435599564779520/7ap8p92y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 211,
+          "like_count": 255,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "LoveForever_52",
+        "verified": true
+      }
+    ]
+  }
+}

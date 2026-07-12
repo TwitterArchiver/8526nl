@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074802789168140288"
+      ]
+    },
+    "author_id": "2065018601451765760",
+    "conversation_id": "2074802792502575470",
+    "created_at": "2026-07-08T10:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074802792502575470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m1L6izDxBA",
+          "end": 31,
+          "expanded_url": "https://x.com/8526nl/status/2074802792502575470/photo/1",
+          "media_key": "3_2074802789168140288",
+          "start": 8,
+          "url": "https://t.co/m1L6izDxBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074802792502575470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡在垃圾堆的猫 https://t.co/m1L6izDxBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074802789168140288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsuJNtbUAAkM5E.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074802789168140288"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2074802792502575470",
+        "created_at": "2026-07-08T10:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074802792502575470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1L6izDxBA",
+              "end": 31,
+              "expanded_url": "https://x.com/8526nl/status/2074802792502575470/photo/1",
+              "media_key": "3_2074802789168140288",
+              "start": 8,
+              "url": "https://t.co/m1L6izDxBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074802792502575470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡在垃圾堆的猫 https://t.co/m1L6izDxBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍋🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 194,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

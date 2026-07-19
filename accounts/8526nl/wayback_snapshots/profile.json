@@ -3,17 +3,23 @@
   "username": "@8526nl",
   "bio": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
   "location": "江西",
-  "link": "t.me/NL8526",
+  "link": "https://t.me/NL8526",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
   "bio_entities": {
     "mentions": [
       {
-        "end": 45,
-        "start": 38,
+        "end": 68,
+        "start": 61,
         "username": "NL8526"
+      },
+      {
+        "end": 88,
+        "start": 72,
+        "username": "wngjil835743488"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg"
 }
